@@ -1,0 +1,37 @@
+[
+    {
+        "company_name": "IKEA",
+        "website": "http://www.ikea.com",
+        "employee_count": 216000,
+        "scraped_insights": "Your dream kitchen awaits... Collect, preserve & share! Handmade gets a place at the table",
+        "personalized_message": "Subject: Custom Hardware Solutions for Your Dream Kitchen - Collaboration Opportunity\n\nDear IKEA Team,\n\nI hope this message finds you well. I recently came across your inspirational tagline \"Your dream kitchen awaits\" on your website and was truly impressed by the craftsmanship and attention to detail that goes into every IKEA product. As a sales representative for a hardware computer store, I believe we can collaborate to enhance your business operations and customer experience.\n\nAt our store, we specialize in providing high-quality hardware solutions such as servers and workstations that can help streamline your day-to-day operations and elevate your customer service. Just like how IKEA collects, preserves, and shares the art of handmade craftsmanship, we too believe in the power of precision and reliability in our products."
+    },
+    {
+        "company_name": "H&M",
+        "website": "http://www.hm.com",
+        "employee_count": 107000,
+        "scraped_insights": "Scraping failed: 403 Client Error: Forbidden for url: https://www.hm.com/. Using default insight.",
+        "personalized_message": "Subject: Enhance Your Retail Operations with High-Quality Hardware Solutions from [Your Company Name]\n\nDear H&M Team,\n\nI hope this message finds you well. I am reaching out to introduce [Your Company Name], a leading provider of hardware solutions for businesses. With our wide range of products and expertise in the industry, we believe we can help enhance the efficiency and productivity of your retail operations at H&M.\n\nAt [Your Company Name], we understand the importance of having reliable and high-performance hardware in place to support your day-to-day business activities. That's why we offer a variety of hardware solutions that are tailored to meet the unique needs of retail companies like yours.\n\nOur range of servers and workstations are designed to provide seamless performance, scalability,"
+    },
+    {
+        "company_name": "Louis Vuitton",
+        "website": "http://www.louisvuitton.com",
+        "employee_count": 196000,
+        "scraped_insights": "Scraping restricted for this site. Using default insight.",
+        "personalized_message": "Subject: Enhance Your Retail Operations with Cutting-Edge Hardware Solutions\n\nDear Louis Vuitton Team,\n\nI hope this message finds you well. My name is [Your Name] and I am a sales representative at [Your Hardware Computer Store]. \n\nI visited your website and was impressed by the dedication to exceptional quality and innovative design that Louis Vuitton is known for. As a retail company with 1-1000 employees, I understand the importance of efficient and reliable hardware solutions to support your operations.\n\nAt [Your Hardware Computer Store], we offer a range of high-performance hardware solutions that can help streamline your retail processes and enhance productivity. From powerful servers to reliable workstations, our products are designed to meet the demands of businesses like yours."
+    },
+    {
+        "company_name": "SEPHORA",
+        "website": "http://www.sephora.com",
+        "employee_count": 56000,
+        "scraped_insights": "Join Beauty Insider to earn points with every purchase. More beauty. Less money. It's Sephora math. SHOP NOW \u25b8",
+        "personalized_message": "Subject: Enhance Your Retail Experience with Top-Notch Hardware Solutions from [Your Company Name]\n\nDear [SEPHORA Team],\n\nI hope this message finds you well. We at [Your Company Name] are reaching out to offer our top-of-the-line hardware solutions to enhance your retail operations at SEPHORA.\n\nAt [Your Company Name], we understand the importance of reliability and efficiency in the retail industry. That's why we offer a wide range of hardware solutions, including servers and workstations, designed to streamline your processes and elevate your customer experience.\n\nBy investing in our cutting-edge hardware solutions, you can optimize your operations and provide a seamless shopping experience for your customers. Our products are designed to help you maximize productivity, minimize downtime, and"
+    },
+    {
+        "company_name": "Inditex",
+        "website": "http://www.inditex.com",
+        "employee_count": 161000,
+        "scraped_insights": "LIFE AT INDITEX 9/10/2025 Interim Half Year 2025 Results",
+        "personalized_message": "Subject: Enhance Your Retail Operations with Cutting-Edge Hardware Solutions from [Your Company Name]\n\nDear [Inditex Contact Name],\n\nI hope this message finds you well. I am reaching out on behalf of [Your Company Name], a leading provider of hardware solutions for businesses. I came across the recent interim half-year 2025 results of Inditex and was impressed by your company's continued success in the retail industry.\n\nAt [Your Company Name], we understand the importance of reliable and efficient hardware in maximizing productivity and enhancing operations. That's why we offer a wide range of cutting-edge solutions tailored to meet the unique needs of businesses like yours.\n\nFrom powerful servers to high-performance workstations, our hardware solutions are designed to support your business growth"
+    }
+]
